@@ -1,0 +1,16 @@
+GIT
+  remote: git://github.com/deafbybeheading/fernet.git
+  revision: 367045dc452dfbbba956260a9e1e6b1f88048086
+  ref: go-align
+  specs:
+    fernet (1.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fernet!
